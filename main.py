@@ -1,4 +1,6 @@
-# Python program to convert input text to it's respective morse code
+# Python program to convert input text to its respective morse code
+# This program first validates the input text to make sure it contains only valid characters
+# and digits and then proceed with conversion to morse code.
 
 # Import module for regular expression
 import re
